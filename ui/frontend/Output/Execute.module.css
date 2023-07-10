@@ -1,3 +1,0 @@
-.addMain {
-  composes: -buttonAsLink from '../shared.module.css';
-}
